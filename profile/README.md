@@ -6,7 +6,8 @@ This workspace hosts repositories related to the strong lens modelling package `
 
 - The [`Herculens`](https://github.com/Herculens/herculens) package: the core modelling engine written in the [`JAX`](https://docs.jax.dev/en/latest/index.html) framework;
 - The [`Helens`](https://github.com/Herculens/helens) package: the fast lens equation solver, also compatible with `JAX`;
-- Many [example notebooks](https://github.com/Herculens/herculens_workspace) 
+- [Mass & light profiles](https://github.com/Herculens/Jax-Lensing-Profiles) to complement those in the main package, such as vectorized multi-Gaussian expansion (MGE);
+- Many [example notebooks](https://github.com/Herculens/herculens_workspace).
 
 ## Example works using `Herculens`
 
